@@ -1,2 +1,2 @@
 FROM centos:7
-ENV container docker
+ENV container  docker
